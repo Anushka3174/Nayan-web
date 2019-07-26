@@ -3,7 +3,8 @@ class pricing extends Component {
     render() {
         return (
             <div>
-            	test
+
+                <h1>HI price</h1>
             </div>
      );
     }

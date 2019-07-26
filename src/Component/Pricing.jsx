@@ -3,6 +3,7 @@ class pricing extends Component {
     render() {
         return (
             <div>
+            	test
             </div>
      );
     }
